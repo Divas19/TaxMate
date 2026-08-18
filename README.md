@@ -9,20 +9,21 @@ This ⁠ Java Swing ⁠ application calculates income tax based on user inpu
 •⁠  ⁠⁠ Java Swing ⁠ (GUI Development) 
 •⁠  ⁠⁠ MySQL Database ⁠
 
-## Screenshots
 
+## Screenshots
 
 ![Home_Page](https://github.com/AyushRawat1718/TaxMate/assets/143322694/174a9f01-cc21-4a22-ad0c-71353f26ed79)
 
-![Signup_Page](https://github.com/Divas19/TaxMate/assets/6d6ef889-352b-42d5-86c4-8db0cbda0a68)
+![Signup_Page](https://github.com/user-attachments/assets/6d6ef889-352b-42d5-86c4-8db0cbda0a68)
 
-![Profile_Page](https://github.com/Divas19/TaxMate/assets/69e3ce9f-b5ac-4488-901c-b616bf55ad72)
+![Profile_Page](https://github.com/user-attachments/assets/69e3ce9f-b5ac-4488-901c-b616bf55ad72)
 
-![Calculation_Page_1](https://github.com/AyushRawat1718/TaxMate/assets/6b3f0b2b-c93e-4fdf-8153-a864f182474e)
+![Calculation_Page_1](https://github.com/AyushRawat1718/TaxMate/assets/143322694/6b3f0b2b-c93e-4fdf-8153-a864f182474e)
 
-![Calculation_Page_2](https://github.com/Divas19/TaxMate/assets/f358ecd7-f765-4d84-83ed-e5b1ca8d4288)
+![Calculation_Page_2](https://github.com/user-attachments/assets/f358ecd7-f765-4d84-83ed-e5b1ca8d4288)
 
-![Version_Page](https://github.com/AyushRawat1718/TaxMate/assets/dc200734-b49c-444e-8912-11888edd2749)
+![Version_Page](https://github.com/AyushRawat1718/TaxMate/assets/143322694/dc200734-b49c-444e-8912-11888edd2749)
+
 ## Installation
 
 •⁠  ⁠*Clone the Repository*
